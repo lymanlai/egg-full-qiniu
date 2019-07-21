@@ -1,5 +1,5 @@
 {
-  "name": "egg-full-qiniu",
+  "name": "lyman-egg-full-qiniu",
   "version": "1.0.5",
   "description": "封装七牛云SDK，方便在egg中使用，包含文件上传，资源管理，CDN推送",
   "eggPlugin": {
@@ -49,12 +49,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alex-my/egg-full-qiniu.git"
+    "url": "git+https://github.com/lymanlai/egg-full-qiniu.git"
   },
   "bugs": {
-    "url": "https://github.com/alex-my/egg-full-qiniu/issues"
+    "url": "https://github.com/lymanlai/egg-full-qiniu/issues"
   },
-  "homepage": "https://github.com/alex-my/egg-full-qiniu#readme",
+  "homepage": "https://github.com/lymanlai/egg-full-qiniu#readme",
   "author": "alex_my@126.com",
   "license": "MIT"
 }
